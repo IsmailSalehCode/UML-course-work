@@ -21,11 +21,12 @@
 
 ## Съдържание на диаграмите
 
-`Class диаграма` - главните класове в приложението са PerimeterSystemControl, UserService, User, ContractEvent, Alert, Location, Device и MaintenanceEvent.
+`Class диаграма` - главните класове в приложението са PerimeterSystemControl, UserPSC, User, ContractEvent, Alert, Location, Device и MaintenanceEvent.
 
 Класът User представя данните на потребителя, който взаимодейства с охранителната система. По-особеният атрибут тук е ролята, която представлява стойност от enumeration Role.
 
-Един потребител може да взима роля в множество сигнално-охранителни проекти (PerimeterSystemControl). Един проект включва множество участници. Затова е сформирана Many-To-Many релация отразена в асоциативния клас UserService. UserService въвежда атрибутa CreatedAt - датата и часа на наемане на определено лице върху определен проект.
+Един потребител може да взима роля в множество сигнално-охранителни системи (PerimeterSystemControl). Един проект включва множество участници. Затова е сформирана Many-To-Many релация отразена в асоциативния клас UserPSC.
+UserPSC въвежда атрибутa CreatedAt - датата и часа на наемане на определено лице върху определен проект.
 
 Една охранителна система взаимодейства (CRUD операции) с множество сигнали /Alert/, локации /Location/ и договори /ContractEvent/. PerimeterSystemControl също притежава метод за активацията и деактивацията си (ToggleIsActive()).
 
