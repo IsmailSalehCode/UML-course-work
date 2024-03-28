@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T21:53:56.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="STgtqOa8EGSWH5JQXefF" version="24.1.0" type="device">
+<mxfile host="app.diagrams.net" modified="2024-03-27T17:17:35.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tzfv5_qIo9sbtFtMYkPK" version="24.2.0" type="device">
   <diagram id="veOgcDAYwcQMUDRxtFas" name="Page-1">
-    <mxGraphModel dx="1030" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="721" dy="1437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,6 +148,15 @@
             <mxPoint x="470" y="230" as="sourcePoint" />
             <mxPoint x="320" y="50" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_Ns0cRnURLNYe0CJtgHd-2" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;The purpose of these notes is to demonstrate how the system&#39;s ORM (Sequelize) makes a query, which fetches a desired DB entry and minimal info regarding its&#39; associated entries from other tables.&lt;/span&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=9;align=left;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="210" y="-100" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ns0cRnURLNYe0CJtgHd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=15;exitPerimeter=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="HjxCybC7CgXkU0CLeNWx-1" target="_Ns0cRnURLNYe0CJtgHd-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_Ns0cRnURLNYe0CJtgHd-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=100;exitDy=16;exitPerimeter=0;entryX=0.383;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;dashed=1;" parent="1" source="HjxCybC7CgXkU0CLeNWx-2" target="_Ns0cRnURLNYe0CJtgHd-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
