@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-30T22:56:20.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7l3hqEFqKmxCeGkDe5OO" version="24.2.1" type="device">
+<mxfile host="app.diagrams.net" modified="2024-03-30T23:34:47.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JwHna3ijKKtzGSPlf2CD" version="24.2.1" type="device">
   <diagram name="Page-1" id="mtAr_mu7G6u2_z8CVEQU">
-    <mxGraphModel dx="1403" dy="507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="845" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,10 +21,10 @@
             <mxPoint x="420" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IsBbG6u886mkhI8KnNi0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="e3sRT_NtdZ0zjib1vqxx-5" target="e3sRT_NtdZ0zjib1vqxx-45" edge="1">
+        <mxCell id="IsBbG6u886mkhI8KnNi0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="e3sRT_NtdZ0zjib1vqxx-5" target="e3sRT_NtdZ0zjib1vqxx-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="699" />
+              <mxPoint x="215" y="699" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -43,8 +43,8 @@
         <mxCell id="e3sRT_NtdZ0zjib1vqxx-8" value="[isOnline = false]" style="text;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="265" y="550" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="e3sRT_NtdZ0zjib1vqxx-15" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Back up&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;power&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;on&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="500" y="725" width="60" height="50" as="geometry" />
+        <mxCell id="e3sRT_NtdZ0zjib1vqxx-15" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;Back up&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;power&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;is used&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;for the 1st time&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;since 20h ago&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="500" y="725" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="e3sRT_NtdZ0zjib1vqxx-21" value="Uninterruptible power supply (UPS)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="105" y="460" width="270" height="30" as="geometry" />
@@ -86,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IsBbG6u886mkhI8KnNi0-6" value="Alert inserted" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="380" y="770" width="90" height="30" as="geometry" />
+          <mxGeometry x="380" y="765" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IsBbG6u886mkhI8KnNi0-8" value="Battery depleted" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-90;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="540" y="645" width="100" height="30" as="geometry" />
@@ -94,7 +94,7 @@
         <mxCell id="IsBbG6u886mkhI8KnNi0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IsBbG6u886mkhI8KnNi0-10" target="e3sRT_NtdZ0zjib1vqxx-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AfgXA-i-UCLUj6b9Ys00-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="IsBbG6u886mkhI8KnNi0-10" target="e3sRT_NtdZ0zjib1vqxx-5">
+        <mxCell id="AfgXA-i-UCLUj6b9Ys00-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="IsBbG6u886mkhI8KnNi0-10" target="e3sRT_NtdZ0zjib1vqxx-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IsBbG6u886mkhI8KnNi0-10" value="Idling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -104,10 +104,10 @@
           <mxGeometry x="293.5" y="590" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IsBbG6u886mkhI8KnNi0-17" value="Main power&amp;nbsp;&lt;div&gt;supply cut off&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="240" y="660" width="90" height="40" as="geometry" />
+          <mxGeometry x="215" y="660" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AfgXA-i-UCLUj6b9Ys00-2" value="Battery under min charge" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="280" y="620" width="150" height="30" as="geometry" />
+        <mxCell id="AfgXA-i-UCLUj6b9Ys00-2" value="Battery charge fell&lt;div&gt;under the minimum&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="294" y="620" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
